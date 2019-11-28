@@ -2,6 +2,8 @@
 It helps to understand mvvm pattern integrated with retrofit service. Recyclerview excepts the results in json form.
 
 **MVVM, Retrofit, recyclerview**
+
+api: https://www.thecocktaildb.com
 ===================
 
 ### It`s intermediate tutorial for android developer.
